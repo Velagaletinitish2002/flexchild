@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+
+}
+
+
+
+.item{
+    width: 400px;
+   
+    height:1000px;
+
+
+}
+.item1{
+    border: 2px solid;
+    margin: 5px;
+    margin-top: 30px;
+    padding: 5px;
+    background-color: lightcyan;
+}
+.item2{
+    border: 2px solid;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightcyan;
+}
+.item3{
+    border: 2px solid;
+    margin: 5px;
+    margin-top: 30px;
+    padding: 5px;
+    background-color: lightcyan;
+}
+.item4{
+    border: 2px solid;
+    margin: 5px;
+    padding: 5px;
+    background-color: lightcyan;
+
+}
